@@ -1,0 +1,16 @@
+# Airflow providers
+apache-airflow-providers-postgres==5.10.0
+
+# Data processing
+pandas==2.0.3
+requests==2.31.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Data versioning
+dvc==3.41.0
+
+# Additional utilities
+python-dotenv==1.0.0
+
